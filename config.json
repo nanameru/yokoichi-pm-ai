@@ -1,0 +1,22 @@
+{
+  "sheet_name": "WBS_AMED_R8",
+  "header_row": 2,
+  "wbs_url": "https://docs.google.com/spreadsheets/d/1f0f7T5GYQQJO84ht2XKHIYUckuMIfb_A/edit?gid=150842212#gid=150842212",
+  "wbs_title": "2026年度AMED全体WBS",
+  "columns": {
+    "task": 5, "phase": 8, "start": 13, "due": 14,
+    "actual": 15, "revised": 16, "remark": 18
+  },
+  "recent_days": 13,
+  "plan_days": 14,
+  "targets": [
+    {"key": "I", "col": 9,  "label": "高木先生",
+     "to": "高木先生", "cc": "杉山さん・弘末さん・荒川さん・奥山さん", "bcc": "元山さん・木村"},
+    {"key": "J", "col": 10, "label": "荒川さん・奥山さん",
+     "to": "荒川さん・奥山さん", "cc": "高木先生", "bcc": "元山さん・木村"},
+    {"key": "K", "col": 11, "label": "田中さん・諸我さん",
+     "to": "諸我さん", "cc": "田中さん・三田さん・平埜さん・荒川さん・奥山さん・高木先生", "bcc": "元山さん・木村"},
+    {"key": "L", "col": 12, "label": "弘末さん・日比野さん",
+     "to": "弘末さん", "cc": "高木先生・荒川さん・奥山さん", "bcc": "元山さん・木村"}
+  ]
+}
